@@ -23,7 +23,7 @@ The validation methods consists of 4 differents metrics implemented in the `grap
 - Populational metrics:
     - Growth curves: Assess the impact of the method on the overall population growth
 trajectories of the four main brain structures.
-    - Sub-cortical volume ratios: Evaluate the ability of the method to capture differ- ences in growth rates on smaller structures.
+    - Sub-cortical volume ratios: Evaluate the ability of the method to capture differences in growth rates on smaller structures.
 - Subject-specific metrics:
     - Z-score differences: Measure the extent to which the method alters each subject’s deviation from its expected trajectory.
     - Percentile differences: Quantify the change in percentile position resulting from the method for each subject.
